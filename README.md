@@ -13,7 +13,7 @@ You need python3 installed, and need to store a file called "mothergoosecorpus.t
 <s> where s the peck of pickled peppers peter piper picked </s>
 ```
 
-## Running it from commandline
+## Running it from command line
 For Linux/Unix:
 ```python
 python3 comp_ling.py
