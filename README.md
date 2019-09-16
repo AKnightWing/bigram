@@ -23,11 +23,11 @@ For Windows:
 python comp_ling.py
 ```
 
-## Author
-Siddharth Chaini
-
 ## Github Link
 https://github.com/AKnightWing/bigram
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Author
+Siddharth Chaini
