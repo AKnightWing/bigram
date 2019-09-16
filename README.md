@@ -23,5 +23,8 @@ For Windows:
 python comp_ling.py
 ```
 
+## Github Link
+https://github.com/AKnightWing/bigram
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
