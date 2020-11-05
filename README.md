@@ -24,7 +24,7 @@ python comp_ling.py
 ```
 
 ## Github Link
-https://github.com/AKnightWing/bigram
+https://github.com/siddharthchaini/bigram
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
